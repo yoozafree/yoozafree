@@ -1,10 +1,10 @@
 
 <div align="center">
-  <img src="[https://github.com/user-attachments/assets/2c80ad36-29ea-4d8c-a80b-cdcad2f60964](https://github.com/user-attachments/assets/7a29855d-4501-4d18-8214-642799d41661)" width="300"/>
+<img src="https://github.com/user-attachments/assets/7a29855d-4501-4d18-8214-642799d41661" width="300"/>
 </div>
 
 <blockquote>
-  chorong lee <br> IT Engineering
+  Seoyun Jeong <br> IT Engineering
 </blockquote>
 
 <h2> Tech Stacks</h2>
